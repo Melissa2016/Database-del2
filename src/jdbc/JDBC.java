@@ -13,7 +13,7 @@ import static java.util.stream.Collectors.toList;
 
 //Try with resources saves a lot of closing...
 public class JDBC {
-
+//////
     public JDBC() throws InterruptedException, ClassNotFoundException, SQLException {
 
         Metoderjdbc r = new Metoderjdbc();
